@@ -1,0 +1,44 @@
+apt update -y && apt upgrade -y
+   87  apt install git-all -upgrade
+   88  apt install git-all --upgrade
+   89  apt install gitsome --upgrade
+   90  apt install git-all
+   91  apt --fix-broken install
+   92  apt install git-all
+   93  git
+   94  apt install gitsome
+   95  git
+   96  gh
+   97  gh configure
+   98  gh me
+   99  ls -la
+  100  mkdir projects
+  101  ls -la
+  102  cd projects
+  103  ls -la
+  104  gh create-repo repo123
+  105  pwd
+  106  git clone repo123.git
+  107  git clone <remote repo.git>
+  108  man git clone
+  109  git clone repo123.git
+  110  git clone https://github.com/naseemamin98/repo123.git
+  111  ls -la
+  112  cd repo123
+  113  git stat
+  114  git status
+  115  touch file1 file2
+  116  git status
+  117  git add -all
+  118  git add --all
+  119  git commit -m "First repo update"
+  120  git config --global user.email "naseemamin98@outlook.com"
+  121  git config --global user.name "naseemamin98"
+  122  git commit -m "First repo update"
+  123  git log
+  124  git push
+  125  git pull
+  126  git log
+  127  git status
+  128  git -cat-file file3
+  129  cat file3
